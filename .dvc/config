@@ -3,4 +3,4 @@
 ['remote "gdrive"']
     url = gdrive://1CgTK_pfa74LtIZyvf67QgGHh2pP1Q1e4
     gdrive_use_service_account = true
-    gdrive_service_account_user_email = "'mohamed.alcafory.456@gmail.com'"
+    gdrive_service_account_json_file_path = dvcpro-1a722a8f8224.json
